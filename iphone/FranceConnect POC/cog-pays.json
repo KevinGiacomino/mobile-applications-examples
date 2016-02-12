@@ -1,0 +1,1078 @@
+[
+  {
+    "code": 99100,
+    "libelle": "FRANCE"
+  },
+  {
+    "code": 99101,
+    "libelle": "FEROE (ILES)"
+  },
+  {
+    "code": 99101,
+    "libelle": "DANEMARK"
+  },
+  {
+    "code": 99102,
+    "libelle": "ISLANDE"
+  },
+  {
+    "code": 99103,
+    "libelle": "NORVEGE"
+  },
+  {
+    "code": 99103,
+    "libelle": "SVALBARD et ILE JAN MAYEN"
+  },
+  {
+    "code": 99103,
+    "libelle": "BOUVET (ILE)"
+  },
+  {
+    "code": 99104,
+    "libelle": "SUEDE"
+  },
+  {
+    "code": 99105,
+    "libelle": "FINLANDE"
+  },
+  {
+    "code": 99106,
+    "libelle": "ESTONIE"
+  },
+  {
+    "code": 99107,
+    "libelle": "LETTONIE"
+  },
+  {
+    "code": 99108,
+    "libelle": "LITUANIE"
+  },
+  {
+    "code": 99109,
+    "libelle": "ALLEMAGNE"
+  },
+  {
+    "code": 99110,
+    "libelle": "AUTRICHE"
+  },
+  {
+    "code": 99111,
+    "libelle": "BULGARIE"
+  },
+  {
+    "code": 99112,
+    "libelle": "HONGRIE"
+  },
+  {
+    "code": 99113,
+    "libelle": "LIECHTENSTEIN"
+  },
+  {
+    "code": 99114,
+    "libelle": "ROUMANIE"
+  },
+  {
+    "code": 99115,
+    "libelle": "TCHECOSLOVAQUIE"
+  },
+  {
+    "code": 99116,
+    "libelle": "TCHEQUE (REPUBLIQUE)"
+  },
+  {
+    "code": 99117,
+    "libelle": "SLOVAQUIE"
+  },
+  {
+    "code": 99118,
+    "libelle": "BOSNIE-HERZEGOVINE"
+  },
+  {
+    "code": 99119,
+    "libelle": "CROATIE"
+  },
+  {
+    "code": 99120,
+    "libelle": "MONTENEGRO"
+  },
+  {
+    "code": 99121,
+    "libelle": "SERBIE"
+  },
+  {
+    "code": 99122,
+    "libelle": "POLOGNE"
+  },
+  {
+    "code": 99123,
+    "libelle": "RUSSIE"
+  },
+  {
+    "code": 99124,
+    "libelle": "TURQUIE D'EUROPE"
+  },
+  {
+    "code": 99125,
+    "libelle": "ALBANIE"
+  },
+  {
+    "code": 99126,
+    "libelle": "GRECE"
+  },
+  {
+    "code": 99127,
+    "libelle": "ITALIE"
+  },
+  {
+    "code": 99128,
+    "libelle": "SAINT-MARIN"
+  },
+  {
+    "code": 99129,
+    "libelle": "VATICAN, ou SAINT-SIEGE"
+  },
+  {
+    "code": 99130,
+    "libelle": "ANDORRE"
+  },
+  {
+    "code": 99131,
+    "libelle": "BELGIQUE"
+  },
+  {
+    "code": 99132,
+    "libelle": "GUERNESEY"
+  },
+  {
+    "code": 99132,
+    "libelle": "MAN (ILE)"
+  },
+  {
+    "code": 99132,
+    "libelle": "ROYAUME-UNI"
+  },
+  {
+    "code": 99132,
+    "libelle": "JERSEY"
+  },
+  {
+    "code": 99133,
+    "libelle": "GIBRALTAR"
+  },
+  {
+    "code": 99134,
+    "libelle": "ESPAGNE"
+  },
+  {
+    "code": 99135,
+    "libelle": "ARUBA"
+  },
+  {
+    "code": 99135,
+    "libelle": "PAYS-BAS"
+  },
+  {
+    "code": 99136,
+    "libelle": "IRLANDE, ou EIRE"
+  },
+  {
+    "code": 99137,
+    "libelle": "LUXEMBOURG"
+  },
+  {
+    "code": 99138,
+    "libelle": "MONACO"
+  },
+  {
+    "code": 99139,
+    "libelle": "PORTUGAL"
+  },
+  {
+    "code": 99140,
+    "libelle": "SUISSE"
+  },
+  {
+    "code": 99141,
+    "libelle": "REPUBLIQUE DEMOCRATIQUE ALLEMANDE"
+  },
+  {
+    "code": 99142,
+    "libelle": "REPUBLIQUE FEDERALE D'ALLEMAGNE"
+  },
+  {
+    "code": 99144,
+    "libelle": "MALTE"
+  },
+  {
+    "code": 99145,
+    "libelle": "SLOVENIE"
+  },
+  {
+    "code": 99148,
+    "libelle": "BIELORUSSIE"
+  },
+  {
+    "code": 99151,
+    "libelle": "MOLDAVIE"
+  },
+  {
+    "code": 99155,
+    "libelle": "UKRAINE"
+  },
+  {
+    "code": 99156,
+    "libelle": "EX-REPUBLIQUE YOUGOSLAVE DE MACEDOINE"
+  },
+  {
+    "code": 99157,
+    "libelle": "KOSOVO"
+  },
+  {
+    "code": 99201,
+    "libelle": "ARABIE SAOUDITE"
+  },
+  {
+    "code": 99202,
+    "libelle": "YEMEN (REPUBLIQUE ARABE DU)"
+  },
+  {
+    "code": 99203,
+    "libelle": "IRAQ"
+  },
+  {
+    "code": 99204,
+    "libelle": "IRAN"
+  },
+  {
+    "code": 99205,
+    "libelle": "LIBAN"
+  },
+  {
+    "code": 99206,
+    "libelle": "SYRIE"
+  },
+  {
+    "code": 99207,
+    "libelle": "ISRAEL"
+  },
+  {
+    "code": 99208,
+    "libelle": "TURQUIE"
+  },
+  {
+    "code": 99209,
+    "libelle": "SIBERIE"
+  },
+  {
+    "code": 99210,
+    "libelle": "TURKESTAN RUSSE"
+  },
+  {
+    "code": 99211,
+    "libelle": "KAMTCHATKA"
+  },
+  {
+    "code": 99212,
+    "libelle": "AFGHANISTAN"
+  },
+  {
+    "code": 99213,
+    "libelle": "PAKISTAN"
+  },
+  {
+    "code": 99214,
+    "libelle": "BHOUTAN"
+  },
+  {
+    "code": 99215,
+    "libelle": "NEPAL"
+  },
+  {
+    "code": 99216,
+    "libelle": "CHINE"
+  },
+  {
+    "code": 99217,
+    "libelle": "JAPON"
+  },
+  {
+    "code": 99218,
+    "libelle": "MANDCHOURIE"
+  },
+  {
+    "code": 99219,
+    "libelle": "THAILANDE"
+  },
+  {
+    "code": 99220,
+    "libelle": "PHILIPPINES"
+  },
+  {
+    "code": 99221,
+    "libelle": "POSSESSIONS BRITANNIQUES AU PROCHE-ORIENT"
+  },
+  {
+    "code": 99222,
+    "libelle": "JORDANIE"
+  },
+  {
+    "code": 99223,
+    "libelle": "GOA"
+  },
+  {
+    "code": 99223,
+    "libelle": "INDE"
+  },
+  {
+    "code": 99224,
+    "libelle": "BIRMANIE"
+  },
+  {
+    "code": 99225,
+    "libelle": "BRUNEI"
+  },
+  {
+    "code": 99226,
+    "libelle": "SINGAPOUR"
+  },
+  {
+    "code": 99227,
+    "libelle": "MALAISIE"
+  },
+  {
+    "code": 99228,
+    "libelle": "ETATS MALAIS NON FEDERES"
+  },
+  {
+    "code": 99229,
+    "libelle": "MALDIVES"
+  },
+  {
+    "code": 99230,
+    "libelle": "HONG-KONG"
+  },
+  {
+    "code": 99231,
+    "libelle": "INDONESIE"
+  },
+  {
+    "code": 99232,
+    "libelle": "MACAO"
+  },
+  {
+    "code": 99233,
+    "libelle": "YEMEN DEMOCRATIQUE"
+  },
+  {
+    "code": 99234,
+    "libelle": "CAMBODGE"
+  },
+  {
+    "code": 99235,
+    "libelle": "SRI LANKA"
+  },
+  {
+    "code": 99236,
+    "libelle": "TAIWAN"
+  },
+  {
+    "code": 99237,
+    "libelle": "COREE"
+  },
+  {
+    "code": 99238,
+    "libelle": "COREE (REPUBLIQUE POPULAIRE DEMOCRATIQUE DE)"
+  },
+  {
+    "code": 99239,
+    "libelle": "COREE (REPUBLIQUE DE)"
+  },
+  {
+    "code": 99240,
+    "libelle": "KOWEIT"
+  },
+  {
+    "code": 99241,
+    "libelle": "LAOS"
+  },
+  {
+    "code": 99242,
+    "libelle": "MONGOLIE"
+  },
+  {
+    "code": 99243,
+    "libelle": "VIET NAM"
+  },
+  {
+    "code": 99244,
+    "libelle": "VIET NAM DU NORD"
+  },
+  {
+    "code": 99245,
+    "libelle": "VIET NAM DU SUD"
+  },
+  {
+    "code": 99246,
+    "libelle": "BANGLADESH"
+  },
+  {
+    "code": 99247,
+    "libelle": "EMIRATS ARABES UNIS"
+  },
+  {
+    "code": 99248,
+    "libelle": "QATAR"
+  },
+  {
+    "code": 99249,
+    "libelle": "BAHREIN"
+  },
+  {
+    "code": 99250,
+    "libelle": "OMAN"
+  },
+  {
+    "code": 99251,
+    "libelle": "YEMEN"
+  },
+  {
+    "code": 99252,
+    "libelle": "ARMENIE"
+  },
+  {
+    "code": 99253,
+    "libelle": "AZERBAIDJAN"
+  },
+  {
+    "code": 99254,
+    "libelle": "CHYPRE"
+  },
+  {
+    "code": 99255,
+    "libelle": "GEORGIE"
+  },
+  {
+    "code": 99256,
+    "libelle": "KAZAKHSTAN"
+  },
+  {
+    "code": 99257,
+    "libelle": "KIRGHIZISTAN"
+  },
+  {
+    "code": 99258,
+    "libelle": "OUZBEKISTAN"
+  },
+  {
+    "code": 99259,
+    "libelle": "TADJIKISTAN"
+  },
+  {
+    "code": 99260,
+    "libelle": "TURKMENISTAN"
+  },
+  {
+    "code": 99261,
+    "libelle": "PALESTINE (Etat de)"
+  },
+  {
+    "code": 99262,
+    "libelle": "TIMOR ORIENTAL"
+  },
+  {
+    "code": 99301,
+    "libelle": "EGYPTE"
+  },
+  {
+    "code": 99302,
+    "libelle": "LIBERIA"
+  },
+  {
+    "code": 99303,
+    "libelle": "AFRIQUE DU SUD"
+  },
+  {
+    "code": 99304,
+    "libelle": "GAMBIE"
+  },
+  {
+    "code": 99305,
+    "libelle": "CAMEROUN ET TOGO"
+  },
+  {
+    "code": 99306,
+    "libelle": "SAINTE HELENE, ASCENSION ET TRISTAN DA CUNHA"
+  },
+  {
+    "code": 99307,
+    "libelle": "SOUDAN ANGLO-EGYPTIEN, KENYA, OUGANDA"
+  },
+  {
+    "code": 99308,
+    "libelle": "OCEAN INDIEN (TERRITOIRE BRITANNIQUE DE L')"
+  },
+  {
+    "code": 99308,
+    "libelle": "ZANZIBAR"
+  },
+  {
+    "code": 99309,
+    "libelle": "TANZANIE"
+  },
+  {
+    "code": 99310,
+    "libelle": "ZIMBABWE"
+  },
+  {
+    "code": 99311,
+    "libelle": "NAMIBIE"
+  },
+  {
+    "code": 99312,
+    "libelle": "CONGO (REPUBLIQUE DEMOCRATIQUE)"
+  },
+  {
+    "code": 99313,
+    "libelle": "CANARIES (ILES)"
+  },
+  {
+    "code": 99313,
+    "libelle": "PROVINCES ESPAGNOLES D'AFRIQUE"
+  },
+  {
+    "code": 99313,
+    "libelle": "PRESIDES"
+  },
+  {
+    "code": 99314,
+    "libelle": "GUINEE EQUATORIALE"
+  },
+  {
+    "code": 99315,
+    "libelle": "ETHIOPIE"
+  },
+  {
+    "code": 99316,
+    "libelle": "LIBYE"
+  },
+  {
+    "code": 99317,
+    "libelle": "ERYTHREE"
+  },
+  {
+    "code": 99318,
+    "libelle": "SOMALIE"
+  },
+  {
+    "code": 99319,
+    "libelle": "ACORES, MADERE"
+  },
+  {
+    "code": 99320,
+    "libelle": "ILES PORTUGAISES DE L'OCEAN INDIEN"
+  },
+  {
+    "code": 99321,
+    "libelle": "BURUNDI"
+  },
+  {
+    "code": 99322,
+    "libelle": "CAMEROUN"
+  },
+  {
+    "code": 99323,
+    "libelle": "CENTRAFRICAINE (REPUBLIQUE)"
+  },
+  {
+    "code": 99324,
+    "libelle": "CONGO"
+  },
+  {
+    "code": 99325,
+    "libelle": "TANGER"
+  },
+  {
+    "code": 99326,
+    "libelle": "COTE D'IVOIRE"
+  },
+  {
+    "code": 99327,
+    "libelle": "BENIN"
+  },
+  {
+    "code": 99328,
+    "libelle": "GABON"
+  },
+  {
+    "code": 99329,
+    "libelle": "GHANA"
+  },
+  {
+    "code": 99330,
+    "libelle": "GUINEE"
+  },
+  {
+    "code": 99331,
+    "libelle": "BURKINA"
+  },
+  {
+    "code": 99332,
+    "libelle": "KENYA"
+  },
+  {
+    "code": 99333,
+    "libelle": "MADAGASCAR"
+  },
+  {
+    "code": 99334,
+    "libelle": "MALAWI"
+  },
+  {
+    "code": 99335,
+    "libelle": "MALI"
+  },
+  {
+    "code": 99336,
+    "libelle": "MAURITANIE"
+  },
+  {
+    "code": 99337,
+    "libelle": "NIGER"
+  },
+  {
+    "code": 99338,
+    "libelle": "NIGERIA"
+  },
+  {
+    "code": 99339,
+    "libelle": "OUGANDA"
+  },
+  {
+    "code": 99340,
+    "libelle": "RWANDA"
+  },
+  {
+    "code": 99341,
+    "libelle": "SENEGAL"
+  },
+  {
+    "code": 99342,
+    "libelle": "SIERRA LEONE"
+  },
+  {
+    "code": 99343,
+    "libelle": "SOUDAN"
+  },
+  {
+    "code": 99344,
+    "libelle": "TCHAD"
+  },
+  {
+    "code": 99345,
+    "libelle": "TOGO"
+  },
+  {
+    "code": 99346,
+    "libelle": "ZAMBIE"
+  },
+  {
+    "code": 99347,
+    "libelle": "BOTSWANA"
+  },
+  {
+    "code": 99348,
+    "libelle": "LESOTHO"
+  },
+  {
+    "code": 99349,
+    "libelle": "SOUDAN DU SUD"
+  },
+  {
+    "code": 99350,
+    "libelle": "MAROC"
+  },
+  {
+    "code": 99351,
+    "libelle": "TUNISIE"
+  },
+  {
+    "code": 99352,
+    "libelle": "ALGERIE"
+  },
+  {
+    "code": 99389,
+    "libelle": "SAHARA OCCIDENTAL"
+  },
+  {
+    "code": 99390,
+    "libelle": "MAURICE"
+  },
+  {
+    "code": 99391,
+    "libelle": "SWAZILAND"
+  },
+  {
+    "code": 99392,
+    "libelle": "GUINEE-BISSAU"
+  },
+  {
+    "code": 99393,
+    "libelle": "MOZAMBIQUE"
+  },
+  {
+    "code": 99394,
+    "libelle": "SAO TOME-ET-PRINCIPE"
+  },
+  {
+    "code": 99395,
+    "libelle": "ANGOLA"
+  },
+  {
+    "code": 99396,
+    "libelle": "CAP-VERT"
+  },
+  {
+    "code": 99397,
+    "libelle": "COMORES"
+  },
+  {
+    "code": 99398,
+    "libelle": "SEYCHELLES"
+  },
+  {
+    "code": 99399,
+    "libelle": "DJIBOUTI"
+  },
+  {
+    "code": 99401,
+    "libelle": "CANADA"
+  },
+  {
+    "code": 99402,
+    "libelle": "TERRE-NEUVE"
+  },
+  {
+    "code": 99403,
+    "libelle": "LABRADOR"
+  },
+  {
+    "code": 99404,
+    "libelle": "ALASKA"
+  },
+  {
+    "code": 99404,
+    "libelle": "ETATS-UNIS"
+  },
+  {
+    "code": 99405,
+    "libelle": "MEXIQUE"
+  },
+  {
+    "code": 99406,
+    "libelle": "COSTA RICA"
+  },
+  {
+    "code": 99407,
+    "libelle": "CUBA"
+  },
+  {
+    "code": 99408,
+    "libelle": "DOMINICAINE (REPUBLIQUE)"
+  },
+  {
+    "code": 99409,
+    "libelle": "GUATEMALA"
+  },
+  {
+    "code": 99410,
+    "libelle": "HAITI"
+  },
+  {
+    "code": 99411,
+    "libelle": "HONDURAS"
+  },
+  {
+    "code": 99412,
+    "libelle": "NICARAGUA"
+  },
+  {
+    "code": 99413,
+    "libelle": "PANAMA"
+  },
+  {
+    "code": 99414,
+    "libelle": "EL SALVADOR"
+  },
+  {
+    "code": 99415,
+    "libelle": "ARGENTINE"
+  },
+  {
+    "code": 99416,
+    "libelle": "BRESIL"
+  },
+  {
+    "code": 99417,
+    "libelle": "CHILI"
+  },
+  {
+    "code": 99418,
+    "libelle": "BOLIVIE"
+  },
+  {
+    "code": 99419,
+    "libelle": "COLOMBIE"
+  },
+  {
+    "code": 99420,
+    "libelle": "EQUATEUR"
+  },
+  {
+    "code": 99421,
+    "libelle": "PARAGUAY"
+  },
+  {
+    "code": 99422,
+    "libelle": "PEROU"
+  },
+  {
+    "code": 99423,
+    "libelle": "URUGUAY"
+  },
+  {
+    "code": 99424,
+    "libelle": "VENEZUELA"
+  },
+  {
+    "code": 99425,
+    "libelle": "BERMUDES"
+  },
+  {
+    "code": 99425,
+    "libelle": "ANGUILLA"
+  },
+  {
+    "code": 99425,
+    "libelle": "CAIMANES (ILES)"
+  },
+  {
+    "code": 99425,
+    "libelle": "VIERGES BRITANNIQUES (ILES)"
+  },
+  {
+    "code": 99425,
+    "libelle": "TURKS ET CAIQUES (ILES)"
+  },
+  {
+    "code": 99425,
+    "libelle": "TERRITOIRES DU ROYAUME-UNI AUX ANTILLES"
+  },
+  {
+    "code": 99425,
+    "libelle": "MONTSERRAT"
+  },
+  {
+    "code": 99426,
+    "libelle": "JAMAIQUE"
+  },
+  {
+    "code": 99427,
+    "libelle": "MALOUINES, OU FALKLAND (ILES)"
+  },
+  {
+    "code": 99427,
+    "libelle": "TERR. DU ROYAUME-UNI DANS L'ATLANTIQUE SUD"
+  },
+  {
+    "code": 99427,
+    "libelle": "GEORGIE DU SUD ET LES ILES SANDWICH DU SUD"
+  },
+  {
+    "code": 99428,
+    "libelle": "GUYANA"
+  },
+  {
+    "code": 99429,
+    "libelle": "BELIZE"
+  },
+  {
+    "code": 99430,
+    "libelle": "GROENLAND"
+  },
+  {
+    "code": 99431,
+    "libelle": "ANTILLES NEERLANDAISES"
+  },
+  {
+    "code": 99432,
+    "libelle": "PORTO RICO"
+  },
+  {
+    "code": 99432,
+    "libelle": "TERR. DES ETATS-UNIS D'AMERIQUE EN AMERIQUE"
+  },
+  {
+    "code": 99432,
+    "libelle": "VIERGES DES ETATS-UNIS (ILES)"
+  },
+  {
+    "code": 99433,
+    "libelle": "TRINITE-ET-TOBAGO"
+  },
+  {
+    "code": 99434,
+    "libelle": "BARBADE"
+  },
+  {
+    "code": 99435,
+    "libelle": "GRENADE"
+  },
+  {
+    "code": 99436,
+    "libelle": "BAHAMAS"
+  },
+  {
+    "code": 99437,
+    "libelle": "SURINAME"
+  },
+  {
+    "code": 99438,
+    "libelle": "DOMINIQUE"
+  },
+  {
+    "code": 99439,
+    "libelle": "SAINTE-LUCIE"
+  },
+  {
+    "code": 99440,
+    "libelle": "SAINT-VINCENT-ET-LES GRENADINES"
+  },
+  {
+    "code": 99441,
+    "libelle": "ANTIGUA-ET-BARBUDA"
+  },
+  {
+    "code": 99442,
+    "libelle": "SAINT-CHRISTOPHE-ET-NIEVES"
+  },
+  {
+    "code": 99443,
+    "libelle": "BONAIRE, SAINT EUSTACHE ET SABA"
+  },
+  {
+    "code": 99444,
+    "libelle": "CURAÇAO"
+  },
+  {
+    "code": 99445,
+    "libelle": "SAINT-MARTIN (PARTIE NEERLANDAISE)"
+  },
+  {
+    "code": 99501,
+    "libelle": "CHRISTMAS (ILE)"
+  },
+  {
+    "code": 99501,
+    "libelle": "AUSTRALIE"
+  },
+  {
+    "code": 99501,
+    "libelle": "COCOS ou KEELING (ILES)"
+  },
+  {
+    "code": 99501,
+    "libelle": "HEARD ET MACDONALD (ILES)"
+  },
+  {
+    "code": 99501,
+    "libelle": "NORFOLK (ILE)"
+  },
+  {
+    "code": 99502,
+    "libelle": "COOK (ILES)"
+  },
+  {
+    "code": 99502,
+    "libelle": "TOKELAU"
+  },
+  {
+    "code": 99502,
+    "libelle": "NIUE"
+  },
+  {
+    "code": 99502,
+    "libelle": "NOUVELLE-ZELANDE"
+  },
+  {
+    "code": 99503,
+    "libelle": "PITCAIRN (ILE)"
+  },
+  {
+    "code": 99504,
+    "libelle": "HAWAII (ILES)"
+  },
+  {
+    "code": 99505,
+    "libelle": "MARIANNES DU NORD (ILES)"
+  },
+  {
+    "code": 99505,
+    "libelle": "GUAM"
+  },
+  {
+    "code": 99505,
+    "libelle": "SAMOA AMERICAINES"
+  },
+  {
+    "code": 99505,
+    "libelle": "TERR. DES ETATS-UNIS D'AMERIQUE EN OCEANIE"
+  },
+  {
+    "code": 99506,
+    "libelle": "SAMOA OCCIDENTALES"
+  },
+  {
+    "code": 99507,
+    "libelle": "NAURU"
+  },
+  {
+    "code": 99508,
+    "libelle": "FIDJI"
+  },
+  {
+    "code": 99509,
+    "libelle": "TONGA"
+  },
+  {
+    "code": 99510,
+    "libelle": "PAPOUASIE-NOUVELLE-GUINEE"
+  },
+  {
+    "code": 99511,
+    "libelle": "TUVALU"
+  },
+  {
+    "code": 99512,
+    "libelle": "SALOMON (ILES)"
+  },
+  {
+    "code": 99513,
+    "libelle": "KIRIBATI"
+  },
+  {
+    "code": 99514,
+    "libelle": "VANUATU"
+  },
+  {
+    "code": 99515,
+    "libelle": "MARSHALL (ILES)"
+  },
+  {
+    "code": 99516,
+    "libelle": "MICRONESIE (ETATS FEDERES DE)"
+  },
+  {
+    "code": 99517,
+    "libelle": "PALAOS (ILES)"
+  }
+]
