@@ -1,4 +1,4 @@
-Cette application Rails accompagne les démonstrateurs [Android](https://repo.android/) et [iPhone](https://repo.iphone/).
+Cette application Rails accompagne les démonstrateurs [Android](https://github.com/france-connect/mobile-applications-examples/tree/master/android) et [iPhone](https://github.com/france-connect/mobile-applications-examples/tree/master/iphone).
 
 Les endpoints sont :
 

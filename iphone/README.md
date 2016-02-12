@@ -2,7 +2,7 @@ Cette application iPhone est un démonstrateur technique prouvant la faisabilit�
 
 # Fonctionnement global
 
-!!!! **Schéma archi du poc** !!!!
+![Schéma d'architecture application / backend / FranceConnect](https://raw.githubusercontent.com/france-connect/mobile-applications-examples/master/diagram/demo_diagram.png)
 
 Au clic sur le bouton "Se connecter avec FranceConnect", l'application ouvre une webview pointant sur l'écran d'authentification FranceConnect (Étape 1 sur le schéma).
 
@@ -41,7 +41,7 @@ Le schéma d'architecture utilisé permet de prouver qu'un utilisateur d'une app
 
 Une application destinée à la mise en production devrait suivre un schéma d'architecture de ce type :
 
-!!!! **Schéma archi cible** !!!!
+![Schéma d'architecture application / backend / FranceConnect](https://raw.githubusercontent.com/france-connect/mobile-applications-examples/master/diagram/target_diagram.png)
 
 1. L'application affiche une webview. Cette webview pointe sur une URL du backend de l'application. Ce backend provoque la redirection de la webview vers la page d'authentification de FranceConnect en fournissant les bons paramètres (scope, clef publique de l'application etc).
 2. L'utilisateur complète la cinématique d'authentification OpenId Connect.
@@ -51,4 +51,4 @@ Une application destinée à la mise en production devrait suivre un schéma d'a
 6. Grâce au cookie, token ou autre transmis par le backend, l'application mobile peut désormais requêter les webservices de son backend de manière authentifiée, et peut donc par exemple demander la récupération des informations de l'identité pivot de l'utilisateur.
 
 # Réutiliser ce démonstrateur
-Pour réutiliser ce démonstrateur, vous aurez besoin d'un backend. Le plus simple est de réutiliser le backend ayant servi pour ce démonstrateur. Vous pourrez ensuite renseigner vos paramètres dans le fichier `Utils/Constants.swift`, notamment aux lignes 18, 22 et 23.
+Pour réutiliser ce démonstrateur, vous aurez besoin d'un backend. Le plus simple est de [réutiliser le backend ayant servi pour ce démonstrateur](https://github.com/france-connect/mobile-applications-examples/tree/master/backend). Vous pourrez ensuite renseigner vos paramètres dans le fichier `Utils/Constants.swift`, notamment aux lignes 18, 22 et 23.
