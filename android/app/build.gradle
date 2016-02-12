@@ -1,0 +1,72 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.octo.franceconnectpoc"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 3
+        versionName "1.2"
+
+        resConfigs "en", "fr"
+        resConfigs "nodpi", "hdpi", "xhdpi", "xxhdpi", "xxxhdpi"
+
+        buildConfigField "String", "FC_BASE_URL", "\"https://fcp.integ01.dev-franceconnect.fr\""
+        buildConfigField "String", "FC_AUTHORIZE_PATH", "\"api/v1/authorize\""
+        buildConfigField "String", "FC_TRACES_PATH", "\"traces\""
+        buildConfigField "String", "FC_CLIENT_ID", "\"YOUR CLIENT ID\""
+        buildConfigField "String", "FC_CALLBACK_URL", "\"YOUR CALLBACK URL\""
+        buildConfigField "String", "FC_SCOPES", "\"openid profile birth email address phone\""
+
+        buildConfigField "String", "BACKEND_BASE_URL", "\"YOUR BACKEND URL\""
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("../your.keystore")
+            storePassword "keystore password"
+            keyAlias "key alias"
+            keyPassword "key password"
+        }
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix '.debug'
+            versionNameSuffix '-DEBUG'
+
+            minifyEnabled false
+            shrinkResources false
+        }
+        release {
+            minifyEnabled false
+            shrinkResources false
+
+            signingConfig signingConfigs.release
+        }
+    }
+
+    lintOptions {
+        abortOnError true
+        disable 'InvalidPackage'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:support-v4:23.1.1'
+    compile 'com.android.support:design:23.1.1'
+
+    compile 'com.jakewharton:butterknife:7.0.1'
+
+    compile 'com.squareup.retrofit2:retrofit:2.0.0-beta4'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
+}
