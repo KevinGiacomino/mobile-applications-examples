@@ -18,7 +18,7 @@ L'application iPhone réalise alors le parsing du json récupéré afin de prés
 
 # Détails
 ## Authentification
-L'écran `AuthorizeViewController` affiche une webview dirigée vers la mire d'authenficiation de FranceConnect.
+L'écran `AuthorizeViewController` affiche une webview dirigée vers la mire d'authenficiation de FranceConnect.
 
 L'implémentation de `UIWebViewDelegate` scrute les changements de page au sein de la webview pour intercepter la demande de redirection vers l'URL de callback.
 

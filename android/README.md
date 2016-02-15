@@ -17,10 +17,10 @@ Le back-end peut alors appeler le service "token" des serveurs de FranceConnect 
 L'application Android réalise alors le parsing du json récupéré afin de présenter les informations à l'écran.
 
 # Détails
-Au clic sur "Se connecter", la `HomeActivity` fait un `startActivityForResult` sur la `AuthorizeDialogActivity`.
+Au clic sur "Se connecter", la `HomeActivity` fait un `startActivityForResult` sur la `AuthorizeDialogActivity`.
 
 ## Authentification
-L'activité `AuthorizeDialogActivity` affiche une webview dirigée vers la mire d'authenficiation de FranceConnect.
+L'activité `AuthorizeDialogActivity` affiche une webview dirigée vers la mire d'authenficiation de FranceConnect.
 
 Un `WebViewClient` scrute les changements de page au sein de la webview pour intercepter la demande de redirection vers l'URL de callback.
 
